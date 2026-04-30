@@ -1,0 +1,324 @@
+﻿SubzoneId,SubzoneCode,SubzoneName,PlanningAreaId,PlanningAreaCode,PlanningAreaName
+181,BSSZ03,Bishan East,1,BS,Bishan
+186,BSSZ02,Marymount,1,BS,Bishan
+236,BSSZ01,Upper Thomson,1,BS,Bishan
+237,BKSZ02,Hong Kah North,2,BK,Bukit Batok
+233,BKSZ05,Hillview,2,BK,Bukit Batok
+255,BKSZ01,Gombak,2,BK,Bukit Batok
+183,BKSZ03,Brickworks,2,BK,Bukit Batok
+185,BKSZ04,Guilin,2,BK,Bukit Batok
+151,BKSZ09,Bukit Batok South,2,BK,Bukit Batok
+173,BKSZ08,Bukit Batok East,2,BK,Bukit Batok
+174,BKSZ06,Bukit Batok West,2,BK,Bukit Batok
+175,BKSZ07,Bukit Batok Central,2,BK,Bukit Batok
+4,BMSZ08,Henderson Hill,3,BM,Bukit Merah
+5,BMSZ03,Redhill,3,BM,Bukit Merah
+6,BMSZ07,Alexandra Hill,3,BM,Bukit Merah
+7,BMSZ09,Bukit Ho Swee,3,BM,Bukit Merah
+12,BMSZ06,Alexandra North,3,BM,Bukit Merah
+24,BMSZ01,Maritime Square,3,BM,Bukit Merah
+25,BMSZ14,Telok Blangah Way,3,BM,Bukit Merah
+21,BMSZ17,City Terminals,3,BM,Bukit Merah
+28,BMSZ11,Kampong Tiong Bahru,3,BM,Bukit Merah
+29,BMSZ13,Telok Blangah Drive,3,BM,Bukit Merah
+32,BMSZ05,Singapore General Hospital,3,BM,Bukit Merah
+33,BMSZ12,Depot Road,3,BM,Bukit Merah
+35,BMSZ02,Bukit Merah,3,BM,Bukit Merah
+40,BMSZ10,Tiong Bahru,3,BM,Bukit Merah
+42,BMSZ04,Tiong Bahru Station,3,BM,Bukit Merah
+63,BMSZ16,Everton Park,3,BM,Bukit Merah
+61,BMSZ15,Telok Blangah Rise,3,BM,Bukit Merah
+188,BPSZ07,Nature Reserve,4,BP,Bukit Panjang
+206,BPSZ05,Jelebu,4,BP,Bukit Panjang
+210,BPSZ04,Bangkit,4,BP,Bukit Panjang
+245,BPSZ06,Dairy Farm,4,BP,Bukit Panjang
+222,BPSZ03,Fajar,4,BP,Bukit Panjang
+223,BPSZ01,Senja,4,BP,Bukit Panjang
+224,BPSZ02,Saujana,4,BP,Bukit Panjang
+211,BTSZ01,Anak Bukit,5,BT,Bukit Timah
+212,BTSZ02,Swiss Club,5,BT,Bukit Timah
+169,BTSZ07,Leedon Park,5,BT,Bukit Timah
+156,BTSZ05,Hillcrest,5,BT,Bukit Timah
+88,BTSZ08,Farrer Court,5,BT,Bukit Timah
+116,BTSZ06,Coronation Road,5,BT,Bukit Timah
+134,BTSZ04,Ulu Pandan,5,BT,Bukit Timah
+136,BTSZ03,Holland Road,5,BT,Bukit Timah
+313,CCSZ01,Central Water Catchment,6,CC,Central Water Catchment
+221,CHSZ02,Changi West,7,CH,Changi
+271,CHSZ01,Changi Point,7,CH,Changi
+269,CHSZ03,Changi Airport,7,CH,Changi
+234,CBSZ01,Changi Bay,8,CB,Changi Bay
+215,CKSZ04,Peng Siang,9,CK,Choa Chu Kang
+219,CKSZ01,Teck Whye,9,CK,Choa Chu Kang
+220,CKSZ03,Choa Chu Kang Central,9,CK,Choa Chu Kang
+259,CKSZ05,Choa Chu Kang North,9,CK,Choa Chu Kang
+264,CKSZ06,Yew Tee,9,CK,Choa Chu Kang
+207,CKSZ02,Keat Hong,9,CK,Choa Chu Kang
+196,CLSZ02,Sunset Way,10,CL,Clementi
+154,CLSZ01,Toh Tuck,10,CL,Clementi
+168,CLSZ04,Clementi North,10,CL,Clementi
+128,CLSZ09,Pandan,10,CL,Clementi
+130,CLSZ06,Clementi Central,10,CL,Clementi
+106,CLSZ03,Faber,10,CL,Clementi
+78,CLSZ07,Clementi Woods,10,CL,Clementi
+91,CLSZ05,West Coast,10,CL,Clementi
+74,CLSZ08,Clementi West,10,CL,Clementi
+137,GLSZ03,Kampong Ubi,11,GL,Geylang
+113,GLSZ01,Kallang Way,11,GL,Geylang
+163,GLSZ04,Aljunied,11,GL,Geylang
+170,GLSZ05,Geylang East,11,GL,Geylang
+197,GLSZ02,Macpherson,11,GL,Geylang
+195,NVSZ04,Dunearn,12,NV,Novena
+165,NVSZ02,Moulmein,12,NV,Novena
+155,NVSZ05,Mount Pleasant,12,NV,Novena
+110,NVSZ01,Balestier,12,NV,Novena
+107,NVSZ03,Malcolm,12,NV,Novena
+265,PRSZ01,Pasir Ris Wafer Fab Park,13,PR,Pasir Ris
+254,PRSZ03,Pasir Ris Central,13,PR,Pasir Ris
+258,PRSZ04,Pasir Ris Park,13,PR,Pasir Ris
+244,PRSZ07,Loyang East,13,PR,Pasir Ris
+216,PRSZ02,Pasir Ris West,13,PR,Pasir Ris
+229,PRSZ06,Loyang West,13,PR,Pasir Ris
+232,PRSZ08,Flora Drive,13,PR,Pasir Ris
+246,PRSZ05,Pasir Ris Drive,13,PR,Pasir Ris
+235,PLSZ02,Paya Lebar East,14,PL,Paya Lebar
+209,PLSZ03,Paya Lebar West,14,PL,Paya Lebar
+256,PLSZ05,Plab,14,PL,Paya Lebar
+201,PLSZ01,Paya Lebar North,14,PL,Paya Lebar
+179,PLSZ04,Airport Road,14,PL,Paya Lebar
+280,SLSZ03,Pulau Punggol Timor,15,SL,Seletar
+286,SLSZ02,Pulau Punggol Barat,15,SL,Seletar
+314,SLSZ04,Seletar,15,SL,Seletar
+316,SLSZ01,Seletar Aerospace Park,15,SL,Seletar
+308,SBSZ02,Sembawang Springs,16,SB,Sembawang
+321,SBSZ06,Sembawang Straits,16,SB,Sembawang
+322,SBSZ07,The Wharves,16,SB,Sembawang
+323,SBSZ08,Senoko North,16,SB,Sembawang
+291,SBSZ03,Sembawang Central,16,SB,Sembawang
+293,SBSZ01,Sembawang East,16,SB,Sembawang
+296,SBSZ05,Admiralty,16,SB,Sembawang
+299,SBSZ09,Senoko South,16,SB,Sembawang
+300,SBSZ04,Sembawang North,16,SB,Sembawang
+199,BDSZ04,Bedok North,17,BD,Bedok
+153,BDSZ02,Bedok Reservoir,17,BD,Bedok
+149,BDSZ01,Kaki Bukit,17,BD,Bedok
+167,BDSZ05,Frankel,17,BD,Bedok
+108,BDSZ06,Bedok South,17,BD,Bedok
+92,BDSZ08,Bayshore,17,BD,Bedok
+77,BDSZ07,Siglap,17,BD,Bedok
+117,BDSZ03,Kembangan,17,BD,Bedok
+115,BLSZ01,Tukang,18,BL,Boon Lay
+123,BLSZ03,Samulun,18,BL,Boon Lay
+124,BLSZ04,Shipyard,18,BL,Boon Lay
+166,BLSZ02,Liu Fang,18,BL,Boon Lay
+272,SESZ03,Sengkang Town Centre,19,SE,Sengkang
+273,SESZ04,Anchorvale,19,SE,Sengkang
+274,SESZ01,Lorong Halus North,19,SE,Sengkang
+260,SESZ02,Rivervale,19,SE,Sengkang
+261,SESZ07,Sengkang West,19,SE,Sengkang
+262,SESZ06,Fernvale,19,SE,Sengkang
+226,SESZ05,Compassvale,19,SE,Sengkang
+225,SGSZ01,Seletar Hills,20,SG,Serangoon
+242,SGSZ04,Serangoon Garden,20,SG,Serangoon
+253,SGSZ03,Serangoon North,20,SG,Serangoon
+251,SGSZ02,Serangoon North Ind Estate,20,SG,Serangoon
+176,SGSZ07,Upper Paya Lebar,20,SG,Serangoon
+194,SGSZ05,Lorong Chuan,20,SG,Serangoon
+180,SGSZ06,Serangoon Central,20,SG,Serangoon
+270,AMSZ11,Yio Chu Kang North,21,AM,Ang Mo Kio
+240,AMSZ03,Chong Boon,21,AM,Ang Mo Kio
+241,AMSZ05,Shangri-la,21,AM,Ang Mo Kio
+248,AMSZ02,Cheng San,21,AM,Ang Mo Kio
+249,AMSZ01,Ang Mo Kio Town Centre,21,AM,Ang Mo Kio
+250,AMSZ06,Kebun Bahru,21,AM,Ang Mo Kio
+238,AMSZ04,Townsville,21,AM,Ang Mo Kio
+227,AMSZ12,Yio Chu Kang East,21,AM,Ang Mo Kio
+228,AMSZ10,Yio Chu Kang,21,AM,Ang Mo Kio
+230,AMSZ08,Tagore,21,AM,Ang Mo Kio
+205,AMSZ07,Sembawang Hills,21,AM,Ang Mo Kio
+217,AMSZ09,Yio Chu Kang West,21,AM,Ang Mo Kio
+252,THSZ01,Tengah,22,TH,Tengah
+198,TPSZ07,Kim Keat,23,TP,Toa Payoh
+200,TPSZ02,Toa Payoh Central,23,TP,Toa Payoh
+161,TPSZ03,Braddell,23,TP,Toa Payoh
+162,TPSZ10,Bidadari,23,TP,Toa Payoh
+145,TPSZ08,Woodleigh,23,TP,Toa Payoh
+148,TPSZ01,Toa Payoh West,23,TP,Toa Payoh
+157,TPSZ12,Joo Seng,23,TP,Toa Payoh
+159,TPSZ05,Lorong 8 Toa Payoh,23,TP,Toa Payoh
+138,TPSZ11,Sennett,23,TP,Toa Payoh
+139,TPSZ09,Potong Pasir,23,TP,Toa Payoh
+141,TPSZ06,Pei Chun,23,TP,Toa Payoh
+142,TPSZ04,Boon Teck,23,TP,Toa Payoh
+285,WCSZ01,Western Water Catchment,24,WC,Western Water Catchment
+284,YSSZ03,Yishun East,25,YS,Yishun
+305,YSSZ02,Northland,25,YS,Yishun
+309,YSSZ06,Springleaf,25,YS,Yishun
+311,YSSZ07,Nee Soon,25,YS,Yishun
+317,YSSZ08,Khatib,25,YS,Yishun
+279,YSSZ01,Yishun Central,25,YS,Yishun
+275,YSSZ04,Yishun South,25,YS,Yishun
+276,YSSZ05,Lower Seletar,25,YS,Yishun
+287,YSSZ09,Yishun West,25,YS,Yishun
+62,DTSZ09,Tanjong Pagar,26,DT,Downtown Core
+43,DTSZ06,Clifford Pier,26,DT,Downtown Core
+45,DTSZ03,Marina Centre,26,DT,Downtown Core
+48,DTSZ02,City Hall,26,DT,Downtown Core
+31,DTSZ11,Central Subzone,26,DT,Downtown Core
+58,DTSZ01,Bugis,26,DT,Downtown Core
+41,DTSZ12,Bayfront Subzone,26,DT,Downtown Core
+37,DTSZ04,Phillip,26,DT,Downtown Core
+38,DTSZ05,Raffles Place,26,DT,Downtown Core
+22,DTSZ10,Anson,26,DT,Downtown Core
+26,DTSZ07,Maxwell,26,DT,Downtown Core
+27,DTSZ08,Cecil,26,DT,Downtown Core
+13,MESZ01,Marina East,27,ME,Marina East
+73,NTSZ04,Cairnhill,28,NT,Newton
+121,NTSZ03,Newton Circus,28,NT,Newton
+76,NTSZ05,Monk's Hill,28,NT,Newton
+81,NTSZ01,Orange Grove,28,NT,Newton
+84,NTSZ06,Istana Negara,28,NT,Newton
+127,NTSZ02,Goodwood Park,28,NT,Newton
+102,ORSZ01,Tanglin,29,OR,Orchard
+83,ORSZ02,Boulevard,29,OR,Orchard
+53,ORSZ03,Somerset,29,OR,Orchard
+288,WDSZ01,Woodlands Regional Centre,30,WD,Woodlands
+282,WDSZ04,Woodlands South,30,WD,Woodlands
+283,WDSZ05,Woodgrove,30,WD,Woodlands
+320,WDSZ09,North Coast,30,WD,Woodlands
+306,WDSZ02,Midview,30,WD,Woodlands
+307,WDSZ06,Woodlands West,30,WD,Woodlands
+290,WDSZ03,Woodlands East,30,WD,Woodlands
+292,WDSZ07,Greenwood Park,30,WD,Woodlands
+294,WDSZ08,Senoko West,30,WD,Woodlands
+1,MSSZ01,Marina South,31,MS,Marina South
+57,MUSZ01,Dhoby Ghaut,32,MU,Museum
+46,MUSZ03,Bras Basah,32,MU,Museum
+87,MUSZ02,Fort Canning,32,MU,Museum
+218,HGSZ05,Trafalgar,33,HG,Hougang
+231,HGSZ07,Lorong Ah Soo,33,HG,Hougang
+239,HGSZ06,Kovan,33,HG,Hougang
+243,HGSZ01,Hougang Central,33,HG,Hougang
+208,HGSZ04,Hougang West,33,HG,Hougang
+202,HGSZ03,Hougang East,33,HG,Hougang
+203,HGSZ10,Lorong Halus,33,HG,Hougang
+204,HGSZ02,Kangkar,33,HG,Hougang
+184,HGSZ09,Defu Industrial Park,33,HG,Hougang
+190,HGSZ08,Tai Seng,33,HG,Hougang
+192,JESZ01,Yuhua West,34,JE,Jurong East
+147,JESZ04,Lakeside,34,JE,Jurong East
+150,JESZ02,Yuhua East,34,JE,Jurong East
+160,JESZ03,Toh Guan,34,JE,Jurong East
+171,JESZ08,Teban Gardens,34,JE,Jurong East
+104,JESZ07,Jurong River,34,JE,Jurong East
+80,JESZ10,Penjuru Crescent,34,JE,Jurong East
+122,JESZ09,Jurong Port,34,JE,Jurong East
+114,JESZ06,International Business Park,34,JE,Jurong East
+135,JESZ05,Jurong Gateway,34,JE,Jurong East
+297,LKSZ01,Lim Chu Kang,35,LK,Lim Chu Kang
+303,MDSZ02,Mandai East,36,MD,Mandai
+318,MDSZ01,Mandai West,36,MD,Mandai
+278,MDSZ03,Mandai Estate,36,MD,Mandai
+118,MPSZ02,Katong,37,MP,Marine Parade
+103,MPSZ03,Marine Parade,37,MP,Marine Parade
+44,MPSZ05,Marina East (mp),37,MP,Marine Parade
+50,MPSZ04,East Coast,37,MP,Marine Parade
+69,MPSZ01,Mountbatten,37,MP,Marine Parade
+302,NESZ01,North-Eastern Islands,38,NE,North-Eastern Islands
+86,PNSZ04,Gul Basin,39,PN,Pioneer
+79,PNSZ05,Pioneer Sector,39,PN,Pioneer
+93,PNSZ03,Benoi Sector,39,PN,Pioneer
+94,PNSZ02,Gul Circle,39,PN,Pioneer
+112,PNSZ01,Joo Koon,39,PN,Pioneer
+277,PGSZ01,Northshore,40,PG,Punggol
+263,PGSZ04,Punggol Field,40,PG,Punggol
+266,PGSZ03,Matilda,40,PG,Punggol
+267,PGSZ05,Waterway East,40,PG,Punggol
+319,PGSZ07,Coney Island,40,PG,Punggol
+312,PGSZ06,Punggol Canal,40,PG,Punggol
+310,PGSZ02,Punggol Town Centre,40,PG,Punggol
+125,QTSZ01,Ghim Moh,41,QT,Queenstown
+119,QTSZ02,Holland Drive,41,QT,Queenstown
+129,QTSZ09,Singapore Polytechnic,41,QT,Queenstown
+101,QTSZ05,Margaret Drive,41,QT,Queenstown
+70,QTSZ03,Commonwealth,41,QT,Queenstown
+71,QTSZ10,Dover,41,QT,Queenstown
+67,QTSZ08,One North,41,QT,Queenstown
+64,QTSZ04,Tanglin Halt,41,QT,Queenstown
+51,QTSZ11,National University Of S'pore,41,QT,Queenstown
+49,QTSZ06,Mei Chin,41,QT,Queenstown
+56,QTSZ15,Port,41,QT,Queenstown
+9,QTSZ13,Pasir Panjang 1,41,QT,Queenstown
+10,QTSZ07,Queensway,41,QT,Queenstown
+11,QTSZ12,Kent Ridge,41,QT,Queenstown
+30,QTSZ14,Pasir Panjang 2,41,QT,Queenstown
+19,SISZ02,Southern Group,42,SI,Southern Islands
+20,SISZ01,Sentosa,42,SI,Southern Islands
+75,TSSZ06,Tuas View Extension,43,TS,Tuas
+89,TSSZ05,Tuas View,43,TS,Tuas
+140,TSSZ03,Tuas North,43,TS,Tuas
+111,TSSZ04,Tuas Bay,43,TS,Tuas
+191,TSSZ01,Tengeh,43,TS,Tuas
+178,TSSZ02,Tuas Promenade,43,TS,Tuas
+193,JWSZ08,Yunnan,44,JW,Jurong West
+187,JWSZ01,Wenya,44,JW,Jurong West
+172,JWSZ02,Boon Lay Place,44,JW,Jurong West
+177,JWSZ03,Hong Kah,44,JW,Jurong West
+158,JWSZ05,Chin Bee,44,JW,Jurong West
+152,JWSZ09,Jurong West Central,44,JW,Jurong West
+146,JWSZ04,Taman Jurong,44,JW,Jurong West
+143,JWSZ06,Kian Teck,44,JW,Jurong West
+144,JWSZ07,Safti,44,JW,Jurong West
+131,KLSZ07,Kampong Java,45,KL,Kallang
+132,KLSZ03,Boon Keng,45,KL,Kallang
+133,KLSZ08,Kallang Bahru,45,KL,Kallang
+126,KLSZ06,Lavender,45,KL,Kallang
+100,KLSZ09,Crawford,45,KL,Kallang
+105,KLSZ02,Geylang Bahru,45,KL,Kallang
+109,KLSZ01,Bendemeer,45,KL,Kallang
+82,KLSZ04,Kampong Bugis,45,KL,Kallang
+68,KLSZ05,Tanjong Rhu,45,KL,Kallang
+301,SMSZ02,Tanjong Irau,46,SM,Simpang
+304,SMSZ03,Simpang South,46,SM,Simpang
+298,SMSZ01,Simpang North,46,SM,Simpang
+295,SMSZ04,Pulau Seletar,46,SM,Simpang
+315,SKSZ04,Pang Sua,47,SK,Sungei Kadut
+268,SKSZ03,Gali Batu,47,SK,Sungei Kadut
+257,SKSZ01,Kranji,47,SK,Sungei Kadut
+281,SKSZ02,Turf Club,47,SK,Sungei Kadut
+289,SKSZ05,Reservoir View,47,SK,Sungei Kadut
+247,TMSZ01,Tampines North,48,TM,Tampines
+189,TMSZ02,Tampines East,48,TM,Tampines
+182,TMSZ03,Tampines West,48,TM,Tampines
+213,TMSZ05,Xilin,48,TM,Tampines
+214,TMSZ04,Simei,48,TM,Tampines
+16,WISZ01,Jurong Island And Bukom,49,WI,Western Islands
+17,WISZ03,Sudong,49,WI,Western Islands
+18,WISZ02,Semakau,49,WI,Western Islands
+72,TNSZ03,Ridout,50,TN,Tanglin
+95,TNSZ02,Chatsworth,50,TN,Tanglin
+90,TNSZ01,Nassim,50,TN,Tanglin
+164,TNSZ04,Tyersall,50,TN,Tanglin
+2,OTSZ01,Pearl's Hill,51,OT,Outram
+39,OTSZ04,China Square,51,OT,Outram
+36,OTSZ03,Chinatown,51,OT,Outram
+34,OTSZ02,People's Park,51,OT,Outram
+14,RVSZ05,Institution Hill,52,RV,River Valley
+60,RVSZ02,Paterson,52,RV,River Valley
+55,RVSZ03,Leonie Hill,52,RV,River Valley
+52,RVSZ01,One Tree Hill,52,RV,River Valley
+47,RVSZ04,Oxley,52,RV,River Valley
+54,RCSZ09,Bencoolen,53,RC,Rochor
+59,RCSZ10,Victoria,53,RC,Rochor
+65,RCSZ06,Mackenzie,53,RC,Rochor
+66,RCSZ03,Sungei Road,53,RC,Rochor
+85,RCSZ02,Little India,53,RC,Rochor
+96,RCSZ05,Kampong Glam,53,RC,Rochor
+97,RCSZ08,Selegie,53,RC,Rochor
+98,RCSZ07,Mount Emily,53,RC,Rochor
+99,RCSZ04,Rochor Canal,53,RC,Rochor
+120,RCSZ01,Farrer Park,53,RC,Rochor
+15,SRSZ01,Robertson Quay,54,SR,Singapore River
+3,SRSZ03,Boat Quay,54,SR,Singapore River
+8,SRSZ02,Clarke Quay,54,SR,Singapore River
+23,SVSZ01,Straits View,55,SV,Straits View
